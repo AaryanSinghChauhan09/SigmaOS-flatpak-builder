@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-flatpak-builder"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS flatpak-builder component - deployment"
+
+[lib]
+name = "flatpak_builder"
+path = "src/lib.rs"
