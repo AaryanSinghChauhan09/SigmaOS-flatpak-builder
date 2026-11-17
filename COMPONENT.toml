@@ -3,7 +3,7 @@ name = "SigmaOS-flatpak-builder"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "flatpak-builder component"
+description = "Flatpak Builder"
 upstream = []
 
 [contract]
